@@ -91,6 +91,10 @@ You are required to submit the following for review:
 
 # Result: Work Day Scheduler
 
+<img width="1790" alt="Screen Shot 2022-09-22 at 2 44 52 PM" src="https://user-images.githubusercontent.com/15242022/191828905-261ec577-5fc9-4cab-90ee-379330cb9d48.png">
+
+
+<img width="1790" alt="Screen Shot 2022-09-22 at 2 45 04 PM" src="https://user-images.githubusercontent.com/15242022/191828931-29c1e80b-e19c-4c65-9b62-8b282cbafa1f.png">
 
 
 
